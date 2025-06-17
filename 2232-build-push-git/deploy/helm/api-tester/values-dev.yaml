@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: cheongsan/api-tester
   pullPolicy: Always
-  tag: "git-250618.013027"
+  tag: "git-250618.020014"
 
 resources:
   limits:
